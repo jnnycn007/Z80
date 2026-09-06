@@ -649,6 +649,7 @@ This emulator has been used by the following projects (listed in alphabetical or
 * **[Augmentinel](https://simonowen.com/spectrum/augmentinel/)** <sub>_by [Simon Owen](https://simonowen.com)_</sub> ⟩ [GitHub](https://github.com/simonowen/augmentinel)
 * **ceda-cemu** <sub>_by [Retrofficina GLG Programs](https://retrofficina.glgprograms.it)_</sub> ⟩ [GitHub](https://github.com/GLGPrograms/ceda-cemu)
 * **CPM-Emulator** <sub>_by [Marc Sibert](https://github.com/Marcussacapuces91)_</sub> ⟩ [GitHub](https://github.com/Marcussacapuces91/CPM-Emulator)
+* **[Emu80](https://emu80.org)** <sub>_by [Viktor Pykhonin](https://github.com/vpyk)_</sub> ⟩ [GitHub](https://github.com/vpyk/emu80v4)
 * **f80** <sub>_by [Richard J. Prinz](https://www.min.at/prinz)_</sub> ⟩ [GitHub](https://github.com/rprinz08/f80)
 * **FK-1 Emulator** <sub>_by [omikron88](https://github.com/omikron88)_</sub> ⟩ [GitHub](https://github.com/omikron88/FK1)
 * **[Google Capture the Flag (2021)](https://capturetheflag.withgoogle.com)** <sub>_by [Google](https://www.google.com)_</sub> ⟩ [GitHub](https://github.com/google/google-ctf)
