@@ -662,6 +662,7 @@ This emulator has been used by the following projects (listed in alphabetical or
 * **OpenCOMAL** <sub>_by [Peter N Andreasen](https://github.com/oz1ktx)_</sub> ⟩ [GitHub](https://github.com/oz1ktx/OpenCOMAL)
 * **PASOPIA/PASOPIA 7 Emulator for Raspberry Pi Pico** <sub>_by [shippoiincho](https://github.com/shippoiincho)_</sub> ⟩ [GitHub](https://github.com/shippoiincho/pasopiaemulator)
 * **PC-6001mkII Emulator for Raspberry Pi Pico** <sub>_by [shippoiincho](https://github.com/shippoiincho)_</sub> ⟩ [GitHub](https://github.com/shippoiincho/p6mk2emulator)
+* **PC-8031 Emulator** <sub>_by [shippoiincho](https://github.com/shippoiincho)_</sub> ⟩ [GitHub](https://github.com/shippoiincho/nise8031)
 * **pico-sorcerer-2** <sub>_by [fruit-bat](https://github.com/fruit-bat)_</sub> ⟩ [GitHub](https://github.com/fruit-bat/pico-sorcerer-2)
 * **pico-zxspectrum** <sub>_by [fruit-bat](https://github.com/fruit-bat)_</sub> ⟩ [GitHub](https://github.com/fruit-bat/pico-zxspectrum)
 * **[picoZ80](https://eaw.app/picoz80)** <sub>_by [Philip Smart](https://eaw.app/contact)_</sub>
